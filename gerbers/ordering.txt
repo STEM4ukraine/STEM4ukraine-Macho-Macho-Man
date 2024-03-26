@@ -1,0 +1,5 @@
+100mm x 100mm
+red soldermask
+white silkscreen
+1.6mm FR4
+Pb/Sn
